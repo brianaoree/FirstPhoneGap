@@ -1,0 +1,42 @@
+/*
+    Author: Briana Oree
+	Creation Date:
+	Title: FirstPhone gap app
+	Revised:
+	Purpose: get used tp phone gab
+	Notes:
+*/
+body{
+   background-color: lightblue;
+}
+
+.banner{
+   position: fixed;
+   left: 0;
+   right: 0;
+   margin: auto;
+   text-align: center;
+   padding: 1%;
+   font-size: 1rem;
+   color: white;
+   font-family: sans-serif;
+   background-color: teal;
+   opacity: 0.5;
+}
+
+.banner-top{
+   top: 0;
+}
+.banner-bottom{
+   bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
