@@ -1,8 +1,8 @@
 /*
-    Author: Briana Oree
-    Creation Date: 
+  Author: Briana Oree
+    Creation Date: February 15, 2016
     Title: First Phone gap app
-    Revised:
+    Revised: February 22, 2016
     Purpose: get used to phone gap
     Notes:
 */
